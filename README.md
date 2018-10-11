@@ -1,2 +1,2 @@
-# moja-socket-count
-统计socket 带宽流量
+
+统计socket通道的带宽流量

@@ -1,0 +1,23 @@
+{
+  "name": "moja-socket-count",
+  "version": "0.0.1",
+  "description": "socket bandwith count",
+  "main": "moja-socket-count.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "moja-socket-count"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Mountains-and-rivers/moja-socket-count.git"
+  },
+  "homepage": "https://github.com/Mountains-and-rivers/moja-socket-count",
+  "_id": "moja-socket-count@0.0.1",
+  "dependencies": {
+
+  },
+  "author": "Mountains-and-rivers",
+  "license": "ISC"
+}
