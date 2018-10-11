@@ -1,2 +1,2 @@
 
-统计socket通道的带宽流量
+统计websocket带宽流量
