@@ -1,6 +1,6 @@
 {
   "name": "moja-socket-count",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "socket bandwith count",
   "main": "moja-socket-count.js",
   "scripts": {
