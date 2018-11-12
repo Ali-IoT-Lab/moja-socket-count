@@ -1,2 +1,11 @@
+###moja-socket-count
+realize socket bandwid statistics
 
-统计websocket带宽流量
+###Usage
+
+npm install moja-socket-count
+
+###Tests
+
+npm install
+./node_modules/.bin/mocha --reporter tap test.js

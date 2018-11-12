@@ -1,26 +1,57 @@
 {
-  "name": "moja-socket-count",
-  "version": "0.0.4",
-  "description": "socket bandwith count",
-  "main": "moja-socket-count.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_from": "moja-socket-count@0.0.5",
+  "_id": "moja-socket-count@0.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-apsoF0/Re7ippa1g89S5Vl/uAwpOyQzSzULFIb+DSdauAR6OyX/CdvOy2OAKMFCIooK49evH5ldvQ89yRUCojQ==",
+  "_location": "/moja-socket-count",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "moja-socket-count@0.0.5",
+    "name": "moja-socket-count",
+    "escapedName": "moja-socket-count",
+    "rawSpec": "0.0.5",
+    "saveSpec": null,
+    "fetchSpec": "0.0.5"
   },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/moja-socket-count/-/moja-socket-count-0.0.5.tgz",
+  "_shasum": "87e65011e793b861093f31993af0f51e3e2bb294",
+  "_spec": "moja-socket-count@0.0.5",
+  "_where": "/node/develop1.0/1.0/remote-terminal",
+  "author": {
+    "name": "Mountains-and-rivers"
+  },
+  "bugs": {
+    "url": "https://github.com/Mountains-and-rivers/moja-socket-count/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "socket bandwith count",
+  "directories": {
+    "lib": "lib"
+  },
+  "homepage": "https://github.com/Mountains-and-rivers/moja-socket-count",
   "keywords": [
     "moja-socket-count"
   ],
+  "license": "ISC",
+  "main": "moja-socket-count.js",
+  "name": "moja-socket-count",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/Mountains-and-rivers/moja-socket-count.git"
   },
-  "homepage": "https://github.com/Mountains-and-rivers/moja-socket-count",
-  "dependencies": {},
-  "author": "Mountains-and-rivers",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Mountains-and-rivers/moja-socket-count/issues"
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter tap test.js"
   },
-  "directories": {
-    "lib": "lib"
-  }
+  "devDependencies": {
+    "mocha": "*",
+    "expect.js": "*"
+  },
+  "version": "0.0.5"
 }
